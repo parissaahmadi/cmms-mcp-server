@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cmms": {
+      "command": "uv",
+      "args": ["run", "--directory", "/path/to/cmms-mcp-server", "cmms-mcp-server", "--fixed-now", "2026-10-09T06:00:00Z"]
+    }
+  }
+}
