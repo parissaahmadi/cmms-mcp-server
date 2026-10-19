@@ -15,8 +15,17 @@ from datetime import UTC, date, datetime
 from . import state_machine as sm
 from .errors import Conflict, Forbidden, Invalid, NotFound
 from .models import (
-    AckResult, Alarm, AlarmPage, Asset, AssetDetail, AssetPage, Overview, WorkOrder,
-    WorkOrderDetail, WorkOrderEvent, WorkOrderPage,
+    AckResult,
+    Alarm,
+    AlarmPage,
+    Asset,
+    AssetDetail,
+    AssetPage,
+    Overview,
+    WorkOrder,
+    WorkOrderDetail,
+    WorkOrderEvent,
+    WorkOrderPage,
 )  # fmt: skip
 
 Clock = Callable[[], datetime]
