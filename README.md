@@ -1,4 +1,4 @@
-![ci](https://github.com/<USERNAME>/cmms-mcp-server/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/parissaahmadi/cmms-mcp-server/actions/workflows/ci.yml/badge.svg)
 
 # cmms-mcp-server
 
